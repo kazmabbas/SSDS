@@ -7,13 +7,19 @@
     "env": {
         "APP_ID": {
             "description": "اتركه لاتغيره"
+	     "required": false,
+	     "value": "27501506"
 	},
         "API_HASH": {
-            "description": "اتركه لاتغيره"    
+            "description": "اتركه لاتغيره"  
+            "required": false,
+	    "value": "30c400c8703260a92bc5ebd00422c903"
+	     
         },
         "STRING_SESSION": {
             "description": "اتركه لاتغيره",
-            "required": true
+            "required": false,
+	    "value": "BAGjo8IAApnHj2nfaDHgAtFnGAZiQbySwRszECWfhXn9Vi118dkxEgr-rI0ZA8FZL9xXcrf9Jqz6xs1czhNlrtZtYMW1hZYjfqy49BrHjZzvsjBrNqMN4d_kanuSbZAcMPDjmsW9UhB-8W4j4x_2UbBF9u4ZlwvAbWdCfJERxhRTccXvMYU6fQAYeDO1MAOXL-c4HEcY6amfWbx5Y5CxH2Rz3jubyYWS6LKV4NZyuq_aFig77ZRacMosoMp8J7mfseNRLJJxB1q1o_yuSijkj3hZMVtgzAVJATy92BIsdh4RWKm7yUnJmSCxc86GgXgvtyxE_8BFksJcUiAIvwJoRkNQICWk1gAAAAGBOlRxAA"
         },
         "HEROKU_MODE": {
             "description": "اتركه لاتغيره",
