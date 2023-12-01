@@ -6,17 +6,17 @@
   "stack": "container",
     "env": {
         "APP_ID": {
-            "description": "ضع هنا الايبي ايدي حساب المساعد استخدم هذا 6463050865"
+            "description": "اتركه لاتغيره"
 	},
         "API_HASH": {
-            "description": "ضع هنا الايبي هاش حساب المساعد استخدم هذا  30c400c8703260a92bc5ebd00422c903"    
+            "description": "اتركه لاتغيره"    
         },
         "STRING_SESSION": {
-            "description": "يرجى وضع كود سيشن تليثون (كود تيرمكس) للحساب المساعد هنا ",
+            "description": "اتركه لاتغيره",
             "required": true
         },
         "HEROKU_MODE": {
-            "description": "لا تغير هذه نهائيا",
+            "description": "اتركه لاتغيره",
             "required": true,
             "value": "ENABLE"
         },
