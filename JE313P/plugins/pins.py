@@ -20,7 +20,7 @@ PINS_TEXT = """
 ‣ `!الرسائل المثبتة`
 لأظهار الرسائل المثبتة في المجموعة
 
-[𖠄 𝗛𝗨𝗡𝗧𝗘𝗥𝗧𝗛𝗢𝗡 𖠄](https://t.me/HunerThon)
+[𖠄 𝗍𝗎𝖿𝗂𝗌𝗎𝗇 𖠄](https://t.me/TUFISUN)
 """
 
 @JE313P.on(events.NewMessage(pattern="^[?!/]الرسائل المثبتة"))
