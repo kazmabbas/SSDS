@@ -31,7 +31,7 @@ async def saves():
         except ChannelPrivateError:
             continue
 print("تم تنصيب السورس بنجاح")
-print("قناة السورس @HunerThon")
+print("قناة السورس @TUFISUN")
 
 if __name__ == "__main__":
     JE313P.run_until_disconnected()
