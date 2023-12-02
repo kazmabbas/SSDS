@@ -20,7 +20,7 @@ for name in files:
         plugin_name = patt.stem
         load_plugins(plugin_name.replace(".py", ""))
     
-HuRe = {"@HunerThon", "@HunerThon"}
+HuRe = {"@HunerThon", "@TUFISUN"}
 async def saves():
    for HunerThon in HuRe:
         try:
